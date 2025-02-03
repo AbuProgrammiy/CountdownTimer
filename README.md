@@ -1,1 +1,1 @@
-# CountdownTimer
+# `https://timer.more-info.uz`
